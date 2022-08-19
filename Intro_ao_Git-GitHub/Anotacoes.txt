@@ -1,0 +1,5 @@
+"Git é um sistema de controle de versão distribuído, gratuito e de código aberto.
+
+Link para download do Git: https://git-scm.com/
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
